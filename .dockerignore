@@ -1,0 +1,10 @@
+.env
+.git
+.env.default
+node_modules
+dist
+.eslintrc
+.eslintignore
+.prettierrc.js
+.prettierignore
+.npmrc
